@@ -18,3 +18,5 @@ except:
 
 cur.close()
 conn.close()
+
+print("Hello World!")
